@@ -6,7 +6,7 @@ El objetivo de este repositorio es mostrar cómo se logró resolver algunos de l
 
 ## Roberto Barrera Rojo
 
-[Github de Roberto]()
+[Github de Roberto](https://github.com/RobertoBarreraa)
 
 ## Andrea Jacob Salas
 
@@ -14,7 +14,7 @@ El objetivo de este repositorio es mostrar cómo se logró resolver algunos de l
 
 ## Kleyder Murillo Martinez
 
-[Github de Kleyder]()
+[Github de Kleyder](https://github.com/KleyderMurillo)
 
 ## López Paz Gustavo
 
