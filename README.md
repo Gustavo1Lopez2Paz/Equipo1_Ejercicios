@@ -4,15 +4,15 @@ El objetivo de este repositorio es mostrar cómo se logró resolver algunos de l
 
 # Integrantes
 
-## Roberto Barrera Rojo
+## Barrera Rojo Roberto
 
 [Github de Roberto](https://github.com/RobertoBarreraa)
 
-## Andrea Jacob Salas
+## Jacob Salas Andrea
 
 [Github de Andrea](https://github.com/AndyJacobSalas)
 
-## Kleyder Murillo Martinez
+## Murillo Martinez Kleyder
 
 [Github de Kleyder](https://github.com/KleyderMurillo)
 
@@ -20,6 +20,6 @@ El objetivo de este repositorio es mostrar cómo se logró resolver algunos de l
 
 [Github de Gustavo](https://github.com/Gustavo1Lopez2Paz)
 
-## Melanie Santiago Reséndiz
+## Santiago Reséndiz Melanie
 
 [Github de Melanie](https://github.com/melaniesantiago)
